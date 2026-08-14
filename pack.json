@@ -1,1 +1,253 @@
-# Uzbek-Super-League
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Player Forename",
+			"Surname": "Player Surename",			
+                        "ImageURL": "<insert imageurl>"
+		}
+		{
+			"ID": 2,
+			"Forename": "Player Forename",
+			"Surname": "Player Surname",
+			"ImageURL": "<insert imageurl>"
+		}
+	],
+	"ClubData": [
+		{
+			"ID": 1,
+			"Name": "Neftchi Fargona",
+			"ShortName": "FFA",
+			"ImageURL": "<https://lh3.googleusercontent.com/-Nb1_Ww7msDQ/Y0FnRhWCCSI/AAAAAAABIys/TJlw3X1pR-8K2lAhzTW8kv_1Q9jwPL8PQCNcBGAsYHQ/s1600/1665230658188128-0.png>"
+		}
+
+                { 
+                        "ID": 2,
+                        "Name": "Pakhtakor Tashkent",
+                        "ShortName": "PTA",
+                        "ImageURL" "<https://images.seeklogo.com/logo-png/10/2/pakhtakor-toshkent-logo-png_seeklogo-105425.png>"
+                }	
+                              
+                
+                { 
+                        "ID":3,
+                        "Name": "Navbahor Namangan",
+                        "ShortName": "NNA",
+                        "ImageURL" "<https://static.flashscore.com/res/image/data/S8p6FCeM-6wCD7ZKQ.png>"
+                }	
+
+                
+                { 
+                        "ID": 4,
+                        "Name": "Buxoro",
+                        "ShortName": "BUX",
+                        "ImageURL" "<https://tse3.mm.bing.net/th/id/OIP.nwQgrff4gfqV4XJ88HnFngAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3>"
+                }	
+
+                
+                { 
+                        "ID": 5,
+                        "Name": "AGMK",
+                        "ShortName": "AGM",
+                        "ImageURL" "<https://tse3.mm.bing.net/th/id/OIP.nwQgrff4gfqV4XJ88HnFngAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3>"
+                }	
+
+                
+                { 
+                        "ID": 6,
+                        "Name": "Lokomotiv Tashkent",
+                        "ShortName": "LTA",
+                        "ImageURL" "<https://tse3.mm.bing.net/th/id/OIP.lqCGnueNWvjM5yO_Vf0QMQHaJs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3>"
+                }	
+
+                
+                { 
+                        "ID": 7,
+                        "Name": "Nasaf Qarshi",
+                        "ShortName": "NQA",
+                        "ImageURL" "<https://tse1.mm.bing.net/th/id/OIP.-F_bOelYfMs6Z-Fsm96xbgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3>"
+                }	
+ 
+                
+                { 
+                        "ID": 8,
+                        "Name": "Xorazm",
+                        "ShortName": "XOR",
+                        "ImageURL" "<https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Khorezm_football_club_logo.png/250px-Khorezm_football_club_logo.png>"
+                }	
+
+                
+                { 
+                        "ID": 9,
+                        "Name": "Andijon",
+                        "ShortName": "AND",
+                        "ImageURL" "<https://tmssl.akamaized.net/images/wappen/head/20099.png?lm=1609697423>"
+                }	
+
+                
+                { 
+                        "ID": 10,
+                        "Name": "Dinamo Sarmakand",
+                        "ShortName": "DSA",
+                        "ImageURL" "<https://www.footballdatabase.eu/images/photos/clubs/a_3/3105.png>"
+                }	
+      
+                 
+                { 
+                        "ID": 11,
+                        "Name": "Sogdiana",
+                        "ShortName": "SOG",
+                        "ImageURL" "<https://th.bing.com/th/id/OIP.ertsGamG7wNUpggcnLTiiAAAAA?w=186&h=186&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3>"
+                }	
+
+                
+                { 
+                        "ID": 12,
+                        "Name": "Qizilqum Zarafshon",
+                        "ShortName": "QZA",
+                        "ImageURL" "<https://th.bing.com/th/id/OIP.TzU3lmKe1JEmwN9Gg7bEhwAAAA?w=100&h=100&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3>"
+                }	
+
+                
+                { 
+                        "ID": 13,
+                        "Name": "Bunyodkor Tashkent",
+                        "ShortName": "BTA",
+                        "ImageURL" "<https://tse4.mm.bing.net/th/id/OIP.DDCeEm1PuZaqa2ITkXobfQHaFQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3>"
+                }	
+
+
+                
+                { 
+                        "ID": 14,
+                        "Name": "Surkhon-2011",
+                        "ShortName": SUK",
+                        "ImageURL" "<https://tse2.mm.bing.net/th/id/OIP.bY0vFafV7ColNeB5mgFi0wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3>"
+                }	
+
+                
+                { 
+                        "ID": 15,
+                        "Name": "Kokand 1912",
+                        "ShortName": "KOK",
+                        "ImageURL" "<https://assets.football-logos.cc/logos/uzbekistan/700x700/kokand-1912.66dffaa4.png>"
+                }	
+
+                
+                { 
+                        "ID": 16,
+                        "Name": "Mashal Muborak",
+                        "ShortName": MMU",
+                        "ImageURL" "<https://tse4.mm.bing.net/th/id/OIP.1h8F6nyXzUHXOkBtM_4WNAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3>"
+                }	
+
+
+
+             
+
+],
+	"LeagueData": [
+		{
+			"ID": 28,
+			"Name": "Superliga",
+			"ImageURL": "<https://images.fotmob.com/image_resources/logo/leaguelogo/540.png>"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 2,
+			"Name": "Uzbekistan Cup",
+			"ImageURL": "https://th.bing.com/th/id/OIP.53Y2-9hwB3hublly3Be3_wAAAA?w=200&h=200&c=10&o=6&dpr=1.3&pid=genserp&rm=2>"
+		}
+
+                {
+			"ID": 3,
+			"Name": "Uzbekistan Supercup",
+			"ImageURL": "<https://th.bing.com/th/id/OIP.9UlhGPmpCWXdjZVBxjd2NQHaJH?w=142&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3>"
+		}
+
+
+	],
+	"StadiumData": [
+		{
+			"ID": 1,
+			"Name": "Istiqlol Stadium"
+		}
+
+                {
+			"ID": 2,
+			"Name": "Pakhtakor Central Stadium"
+		}
+
+                {
+			"ID": 3,
+			"Name": "Markaziy Stadium"
+		}
+                
+                {
+			"ID": 4,
+			"Name": "Buxoro Arena"
+		}
+
+                {
+			"ID": 5,
+			"Name": "AGMK Stadium"
+		}
+                
+                {
+			"ID": 6,
+			"Name": "Lokomotiv Stadium"
+		}
+
+                {
+			"ID": 7,
+			"Name": "Markaziy Stadium"
+		}
+
+                {
+			"ID": 8,
+			"Name": "Dinamo Sarmaqand Stadium"
+		}
+
+                {
+			"ID": 9,
+			"Name": "Bobur Arena"
+		}
+
+                {
+			"ID": 10,
+			"Name": "Sogdiana Stadium"
+		}
+
+                {
+			"ID": 11,
+			"Name": "Yoshlar Sports Complex"
+		}
+
+                {
+			"ID": 12,
+			"Name": "Bunyodkor Stadium"
+		}
+
+                {
+			"ID": 13,
+			"Name": "Xorazm Stadium"
+		}
+             
+                {
+			"ID": 14,
+			"Name": "Shurkhon Arena"
+		}
+
+                {
+			"ID": 15,
+			"Name": "Kokand Central Stadium"
+		}
+
+                {
+			"ID": 16,
+			"Name": "Bahrom Vafoev Stadium"
+		}
+
+
+
